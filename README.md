@@ -6,7 +6,7 @@ The Knight's Tour problem is a classic chess puzzle where the task is to find a 
 
 ### 1. Backtracking Algorithm
 - This method uses a recursive backtracking approach to explore all possible moves of the knight and backtrack when reaching a dead end.
-- The backtracking algorithm searches for a solution by trying different moves and undoing them if they don't lead to a solution.
+- The backtracking algorithm searches for a solution by trying different moves and undo them if they don't lead to a solution.
 - It is a brute-force approach that systematically explores all possible paths until a solution is found or all paths are exhausted.
 
 ### 2. Graph Theory
